@@ -1,3 +1,7 @@
 .background-color{
   background-color: #264653 ;
 }
+.categories img{
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+}
